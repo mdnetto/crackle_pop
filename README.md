@@ -1,7 +1,9 @@
 # crackle_pop
 
 This is a program that prints out the numbers 1 to 100 (inclusive).
-- If the number is divisible by 3, print Crackle instead of the number. 
-- If it's divisible by 5, print Pop. If it's divisible by both 3 and 5, print CracklePop. 
+
+- If the number is divisible by 3, it prints Crackle instead of the number. 
+- If it's divisible by 5, it prints Pop. 
+- If it's divisible by both 3 and 5, it prints CracklePop. 
 
 It is written in PHP!
